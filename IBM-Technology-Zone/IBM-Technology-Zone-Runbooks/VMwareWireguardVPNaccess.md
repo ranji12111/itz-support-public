@@ -17,7 +17,7 @@ The WireGuard VPN tunnel allows users to access their VMs in an isolated environ
 ![VPN](https://github.com/IBM/itz-support-public/blob/main/IBM-Technology-Zone/IBM-Technology-Zone-Runbooks/Images/vmware-vpn-download.png)
 
 3. Download and install the WireGuard VPN client on your local machine.
-See https://www.wireguard.com/install/ for its various OS instructions
+See https://wg-download.techzone.ibm.com/ for its various OS instructions
 
 4. Launch the client. Import your downloaded VPN config file
 
